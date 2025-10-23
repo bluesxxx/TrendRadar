@@ -33,7 +33,6 @@ ai
 
 美国
 日本
-韩国
 
 芯片
 光刻机
@@ -43,6 +42,11 @@ ai
 核能
 储能
 电化学储能
+主动安全预警
+复杂度
+ontonix
+QCM
+Artificial Intuition
 accure
 TWaICE
 
